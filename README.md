@@ -3,8 +3,6 @@
 Detects Counterfeit Indian Currency using Image Processing Techniques
 
 
-https://user-images.githubusercontent.com/124071474/230788455-c645c8dd-5813-45a3-b418-ae61ba9936f7.mp4
-
 
 ## 	Overview
 The aim of this project is to test the authenticity of Indian currency notes by preparing a system which takes the image of currency bill as input and gives the ﬁnal result by applying various image processing and computer vision techniques and algorithms. 
