@@ -2,6 +2,8 @@
 
 Detects Counterfeit Indian Currency using Image Processing Techniques
 
+
+
 ## 	Overview
 The aim of this project is to test the authenticity of Indian currency notes by preparing a system which takes the image of currency bill as input and gives the ﬁnal result by applying various image processing and computer vision techniques and algorithms. 
 This currency authentication system has been designed completely using Python language in Jupyter Notebooks. **OpenCV** library has been used for image processing and **Tkinter** & **CustomTkinter** library has been used for building the GUI. 
